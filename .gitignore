@@ -1,0 +1,24 @@
+# --- PlatformIO ---
+.pio
+.pioenvs
+.piolibdeps
+.idea
+.vscode
+*.code-workspace
+
+# --- Archivos de Sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Compilación C++ ---
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# --- Opcional: Mantener diagramas de Wokwi ---
+# Si quieres subir la simulación, NO agregues estas líneas.
+# Si prefieres que sea privado, descomenta abajo:
+# diagram.json
+# wokwi.toml
