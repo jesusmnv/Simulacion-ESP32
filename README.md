@@ -97,7 +97,7 @@ Ambiente, Humedad, 40.00 %
 ...
 Decision, Riego, SI
 Decision, Razon, Temp > 35C + Hum < 50%
-
-const int HUMEDAD_MINIMA = 30;  // Umbral para activar riego
-const int LUZ_MAXIMA = 40;      // Umbral para evitar riego con mucho sol
-const int TANQUE_MINIMO = 10;   // Protección de bomba
+```
+* const int HUMEDAD_MINIMA = 30;  // Umbral para activar riego
+* const int LUZ_MAXIMA = 40;      // Umbral para evitar riego con mucho sol
+* const int TANQUE_MINIMO = 10;   // Protección de bomba
